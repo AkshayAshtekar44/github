@@ -39,7 +39,7 @@ def main():
 
     print processed_list.next()
 
-
+    print "cloning repo....."
 
 if __name__ == '__main__':
     main()
